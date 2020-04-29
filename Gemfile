@@ -29,7 +29,7 @@ gem 'jquery-rails'
 gem 'test-unit', '~> 3.0'
 
 group :production do
-  gem 'pg', '~> 0.15'
+  gem 'pg', '0.18.4'
 end
 
 # To use ActiveModel has_secure_password
